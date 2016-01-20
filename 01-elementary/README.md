@@ -40,8 +40,9 @@ $ mvn install
 
 Maven walk through all default lifecycle phases and execute all bounded goals:
 
-| process-resources      | resources:resources     |
+| Phase                  | Goal                    |
 |------------------------|-------------------------|
+| process-resources      | resources:resources     |
 | compile                | compiler:compile        |
 | process-test-resources | resources:testResources |
 | test-compile           | compiler:testCompile    |
