@@ -11,5 +11,11 @@
 
     <artifactId>child-two</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.2</version>
+        </dependency>
+    </dependencies>
 </project>
