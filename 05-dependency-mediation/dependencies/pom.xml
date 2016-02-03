@@ -8,14 +8,17 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>A</module>
-        <module>B</module>
-        <module>C</module>
-        <module>D</module>
-        <module>E</module>
-        <module>F</module>
-        <module>G</module>
-        <module>H</module>
-        <module>I</module>
+        <module>A-1.0.0</module>
+        <module>A-2.2.0</module>
+        <module>B-2.0.0</module>
+        <module>C-3.0.0</module>
+        <module>G-1.5.0</module>
+        <module>H-2.8.0</module>
+        <module>H-5.2.1</module>
+        <module>I-3.8.1</module>
+        <module>F-3.2.0</module>
+        <module>F-4.9.0</module>
+        <module>D-4.0.0</module>
+        <module>E-2.5.0</module>
     </modules>
 </project>
