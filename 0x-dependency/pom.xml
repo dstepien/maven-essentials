@@ -1,9 +1,10 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.dawidstepien.maven</groupId>
-    <artifactId>maven-dependencies</artifactId>
+    <artifactId>dependency</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -20,5 +21,8 @@
         <module>F-4.9.0</module>
         <module>D-4.0.0</module>
         <module>E-2.5.0</module>
+        <module>J-1.0.0</module>
+        <module>K-1.0.0</module>
+        <module>bom</module>
     </modules>
 </project>

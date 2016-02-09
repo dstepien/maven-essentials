@@ -3,19 +3,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.dawidstepien.maven.dependency</groupId>
-    <artifactId>F</artifactId>
-    <version>4.9.0</version>
+    <artifactId>J</artifactId>
+    <version>1.0.0</version>
 
     <dependencies>
         <dependency>
             <groupId>pl.dawidstepien.maven.dependency</groupId>
-            <artifactId>I</artifactId>
-            <version>3.8.1</version>
-        </dependency>
-        <dependency>
-            <groupId>pl.dawidstepien.maven.dependency</groupId>
-            <artifactId>H</artifactId>
-            <version>5.2.1</version>
+            <artifactId>K</artifactId>
+            <version>1.0.0</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>
