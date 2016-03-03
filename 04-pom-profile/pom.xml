@@ -8,8 +8,6 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <customProperty>myValue</customProperty>
-        <junit.version>4.12</junit.version>
     </properties>
 
     <dependencies>
